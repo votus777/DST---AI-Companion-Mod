@@ -25,6 +25,8 @@ One is the *FAtiMA Server file*, and the other is the *DST mod file* that applie
 
 - DST Mod: This is a body of agents. It will transfer the data that the Agent perceived in the DST game environments to the FAtiMA server. Also when it receives orders, the mod file proceeds so the Agent can perform actual actions. 
 
+___ 
+
 1. The DST mod should be pasted into the game folder. (C:\\Program Files (x86)\\Steam\\steamapps\\common\\Don't Starve Together\\mods)
 
 2. Start DST vis Steam and create a new world.   
