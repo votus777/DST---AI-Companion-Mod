@@ -1,10 +1,12 @@
 # DST-AICompanion
 Play "Don't Starve Together" with an interactive AI agent
 
+_This mod has been developed for an academic research purpose._
+
 Mod for the Steam game [Don't Starve Together](https://store.steampowered.com/app/322330/Dont_Starve_Together/)
 , based on [FAtiMA-Toolkit](https://github.com/GAIPS/FAtiMA-Toolkit) to add an AI Agent to play and cooperate with players in the DST game world. This source code makes the agent able to move and do various actions autonomously. The agent can pick up resources, chop down trees, and even fight enemies with you.
 
-The skeleton of the original mod is 'FAtiMA DST', built by [Hineios](https://github.com/hineios/FAtiMA-DST). However, while DST is updated, that mod is no longer updated by the developer. So this mod added advanced features and fixed major issues. In particular, the AI was given a personality, allowing it to display different characteristics.
+The skeleton of the original mod is 'FAtiMA DST', built by [Hineios](https://github.com/hineios/FAtiMA-DST). However, while DST is updated, that mod is no longer updated by the developer. So this mod added advanced features and fixed major issues. In particular, the AI was given a personality, allowing it to display different characteristics. You can see the recorded test video [here](https://youtu.be/C9GPoEb9D_c?si=GKqpptaeVf8IrStb)
 
 <p align="center">
 	<img src = "https://github.com/votus777/DST-AICompanion/assets/51744036/94102a04-e56c-4132-af0b-23206e90a6f0"></img>
