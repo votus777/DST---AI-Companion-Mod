@@ -27,16 +27,16 @@ One is the *FAtiMA Server file*, and the other is the *DST mod file* that applie
 
 1. The DST mod should be pasted into the game folder. (C:\\Program Files (x86)\\Steam\\steamapps\\common\\Don't Starve Together\\mods)
 
-2. Start DST vis Steam and create a new world. 
-	2-1. Click ‘Host Game’ from the main screen. 
-	2-2. Create New World 
-	2-3. Select ‘Survival’  
-	2-4. Check ‘Friends Only’
-	2-5. If you look at the tab above, you can see that there is ‘Mod (0)’
-	2-6. Check the boxes of ‘HRI_Gamemod’ & ‘The AI Companion’ to enable the mods. 
-	2-7. Select ‘The AI Companion’ mod and click to check mod options.
-	2-8. Click ‘Generate World’ on the right below side. 
-	2-9. MUST SELECT ‘Wilson’ character from the select window. 
+2. Start DST vis Steam and create a new world.   
+	2-1. Click ‘Host Game’ from the main screen.   
+	2-2. Create New World   
+	2-3. Select ‘Survival’    
+	2-4. Check ‘Friends Only’  
+	2-5. If you look at the tab above, you can see that there is ‘Mod (0)’  
+	2-6. Check the boxes of ‘HRI_Gamemod’ & ‘The AI Companion’ to enable the mods.   
+	2-7. Select ‘The AI Companion’ mod and click to check mod options.  
+	2-8. Click ‘Generate World’ on the right below side.   
+	2-9. MUST SELECT ‘Wilson’ character from the select window.   
 
  In the mod setting, Agents and personalities can be adjusted.   
 
