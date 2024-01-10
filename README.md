@@ -23,7 +23,7 @@ One is the *FAtiMA Server file*, and the other is the *DST mod file* that applie
 
 - FatiMA Server: This is the brain of the Agent. It will determine what the agent should do based on perception data and send orders to the mod file. It's a C# console application (**FAtiMA-Server.exe**) and will be run from outside of the game independently. 
 
-- DST mod: This is a body of agents. It will transfer the data that the Agent perceived in the DST game environments to the FAtiMA server. Also when it receives orders, the mod file proceeds so the Agent can perform actual actions. 
+- DST Mod: This is a body of agents. It will transfer the data that the Agent perceived in the DST game environments to the FAtiMA server. Also when it receives orders, the mod file proceeds so the Agent can perform actual actions. 
 
 1. The DST mod should be pasted into the game folder. (C:\\Program Files (x86)\\Steam\\steamapps\\common\\Don't Starve Together\\mods)
 
