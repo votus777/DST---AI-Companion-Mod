@@ -66,6 +66,8 @@ The process is performed at every interval.
 
  Each correspondence uses an HTTP transaction.
 
+For more information, please see [FAtiMA-Toolkit DST](https://fatima-toolkit.eu/fatima-toolkit-mcts-and-dont-starve-together/)
+
 ## Application 
 
 For my master thesis, 'Speech System' has been also applied. 
