@@ -6,7 +6,10 @@ Mod for the Steam game [Don't Starve Together](https://store.steampowered.com/ap
 
 The skeleton of the original mod is 'FAtiMA DST', built by [Hineios](https://github.com/hineios/FAtiMA-DST). However, while DST is updated, that mod is no longer updated by the developer. So this mod added advanced features and fixed major issues. In particular, the AI was given a personality, allowing it to display different characteristics.
 
-[![Video Label](http://img.youtube.com/vi/C9GPoEb9D_c/0.jpg)](https://youtu.be/C9GPoEb9D_c)
+<p align="center">
+	<img src = "https://github.com/votus777/DST-AICompanion/assets/51744036/94102a04-e56c-4132-af0b-23206e90a6f0"></img>
+</p>
+	
 
 ## Requirements
 -   Window OS 
